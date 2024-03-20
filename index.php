@@ -1,25 +1,24 @@
 <!DOCTYPE html>
 <html lang="en">
 <head><meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-    <title>How to send email with attachment in PHP  &ndash; Coding Birds Online</title>
+    <title>How to send email with attachment in PHP  &ndash; Zangtics Digital</title>
     <meta name="theme-color" content="#000000">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <link rel="shortcut icon" href="../website/img/coding-birds-online/coding-birds-online-favicon.png">
-    <meta name="author" content="Ankit Kumar">
+    <link rel="shortcut icon" href="">
+    <meta name="author" content="">
     <meta name="description" content="Demo &ndash; Coding Birds Online is a blogging website, minimizes the difficulties of coding and development that every new fresher faces in his career. we provide information on free resources, techniques of coding and problem-solving codes on our website.">
-    <meta name="keywords" content="Coding Birds Online Demo, coding birds demo, project demo, live demo, tutorials, programming, web technologies, coding,HTML,CSS,PHP,CodeIgniter">
+    <meta name="keywords" content="Coding birds demo, project demo, live demo, tutorials, programming, web technologies, coding,HTML,CSS,PHP,CodeIgniter">
 
     <meta name="twitter:card" content="summary_large_image" />
-    <meta name="twitter:description" content="Demo &ndash; Coding Birds Online is a blogging website, minimizes the difficulties of coding and development that every new fresher faces in his career. we provide information on free resources, techniques of coding and problem-solving codes on our website." />
-    <meta name="twitter:title" content="Demo &ndash; Coding Birds Online" />
-    <meta name="twitter:creator" content="@DeveloperAnkit" />
+    <meta name="twitter:description" content="Demo &ndash; " />
+    <meta name="twitter:title" content="Demo &ndash; " />
+    <meta name="twitter:creator" content="" />
 
     <meta property="og:locale" content="en_US" />
     <meta property="og:type" content="website" />
-    <meta property="og:title" content="Demo &ndash; Coding Birds Online" />
-    <meta property="og:description" content="Demo &ndash; Coding Birds Online is a blogging website, minimizes the difficulties of coding and development that every new fresher faces in his career. we provide information on free resources, techniques of coding and problem-solving codes on our website." />
-    <meta property="og:url" content="https://demo.codingbirdsonline.com/" />
-    <meta property="og:site_name" content="Demo &ndash; Coding Birds Online" />
+    <meta property="og:title" content="Demo &ndash; " />
+    <meta property="og:url" content="" />
+    <meta property="og:site_name" content="Demo &ndash; " />
 
     <link href="https://fonts.googleapis.com/css?family=Poppins:100,200,400,300,500,600,700" rel="stylesheet">
     <!--==================CSS==================-->
@@ -40,9 +39,9 @@
             </div>
             <nav id="nav-menu-container">
                 <ul class="nav-menu">
-                    <li><a href="https://demo.codingbirdsonline.com/">Demos</a></li>
-                    <li><a href="https://codingbirdsonline.com/about-ankit/">About</a></li>
-                    <li><a href="https://codingbirdsonline.com/">Blog</a></li>
+                    <li><a href="https://zangticsdigital.com/">Demos</a></li>
+                    <li><a href="https://zangticsdigital.com/">About</a></li>
+                    <li><a href="https://zangticsdigital.com/">Blog</a></li>
                 </ul>
             </nav>
         </div>
