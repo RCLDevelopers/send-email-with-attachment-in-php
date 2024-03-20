@@ -35,7 +35,7 @@
     <div class="container main-menu">
         <div class="row align-items-center justify-content-between d-flex">
             <div id="logo">
-                <a href="index.php"><img src="../website/img/coding-birds-online/coding-birds-online-logo.png" width="133" alt="" title="" /></a>
+                <a href="index.php"><img src="https://zangticsdigital.com/storage/web-logo-rr-1.png" width="133" alt="" title="" /></a>
             </div>
             <nav id="nav-menu-container">
                 <ul class="nav-menu">
@@ -55,7 +55,7 @@
             <div class="col-lg-8 posts-list">
                 <div class="card card-signin my-5">
                     <div class="card-body">
-                        <center><img src="../website/img/coding-birds-online/coding-birds-online-favicon.png" width="70"></center>
+                        <center><img src="https://zangticsdigital.com/storage/web-logo-rr-1.png" width="70"></center>
                         <h5 class="card-title text-center">Send email with attachment in PHP</h5>
                         <form method="post" action="email-script.php" enctype="multipart/form-data" id="emailForm">
                             <div class="form-group">
